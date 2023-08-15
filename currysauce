@@ -1,0 +1,32 @@
+{
+  "recipeName": "Homemade Curry Sauce",
+  "servings": 10,
+  "ingredients": [
+    {
+      "name": "Onions",
+      "pricePerKg": 1.2,
+      "quantityPerServing": 0.1
+    },
+    {
+      "name": "Tomatoes",
+      "pricePerKg": 2.5,
+      "quantityPerServing": 0.2
+    },
+    {
+      "name": "Coconut Milk",
+      "pricePerKg": 3.0,
+      "quantityPerServing": 0.15
+    },
+    {
+      "name": "Spices",
+      "pricePerKg": 0.5,
+      "quantityPerServing": 0.02
+    },
+    {
+      "name": "Oil",
+      "pricePerKg": 1.0,
+      "quantityPerServing": 0.02
+    }
+  ],
+  "totalCost": 2.74
+}
