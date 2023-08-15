@@ -1,0 +1,32 @@
+{
+  "recipeName": "Classic Porridge",
+  "servings": 10,
+  "ingredients": [
+    {
+      "name": "Oats",
+      "pricePerKg": 1.5,
+      "quantityPerServing": 0.05
+    },
+    {
+      "name": "Milk",
+      "pricePerKg": 0.8,
+      "quantityPerServing": 0.1
+    },
+    {
+      "name": "Water",
+      "pricePerKg": 0.1,
+      "quantityPerServing": 0.05
+    },
+    {
+      "name": "Salt",
+      "pricePerKg": 0.3,
+      "quantityPerServing": 0.001
+    },
+    {
+      "name": "Honey",
+      "pricePerKg": 5.0,
+      "quantityPerServing": 0.01
+    }
+  ],
+  "totalCost": 2.415
+}
